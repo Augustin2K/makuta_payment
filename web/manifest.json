@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "makuta_payment",
     "short_name": "makuta_payment",
+=======
+    "name": "demo",
+    "short_name": "demo",
+>>>>>>> 9ee889068818ad0ea1914d8004cc7dcd9a9539d7
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

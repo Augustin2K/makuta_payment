@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.scorpion.makuta_payment"
+=======
+    namespace = "com.scorpion.demo"
+>>>>>>> 9ee889068818ad0ea1914d8004cc7dcd9a9539d7
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.scorpion.makuta_payment"
+=======
+        applicationId = "com.scorpion.demo"
+>>>>>>> 9ee889068818ad0ea1914d8004cc7dcd9a9539d7
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

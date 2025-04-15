@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.scorpion" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "makuta_payment" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "makuta_payment" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.scorpion. All rights reserved." "\0"
             VALUE "OriginalFilename", "makuta_payment.exe" "\0"
             VALUE "ProductName", "makuta_payment" "\0"
+=======
+            VALUE "FileDescription", "demo" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "demo" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.scorpion. All rights reserved." "\0"
+            VALUE "OriginalFilename", "demo.exe" "\0"
+            VALUE "ProductName", "demo" "\0"
+>>>>>>> 9ee889068818ad0ea1914d8004cc7dcd9a9539d7
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

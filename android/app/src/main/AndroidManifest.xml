@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="makuta_payment"
+=======
+        android:label="demo"
+>>>>>>> 9ee889068818ad0ea1914d8004cc7dcd9a9539d7
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
